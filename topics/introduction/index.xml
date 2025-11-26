@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics/Introduction on Zachari Saltmer</title>
+    <link>http://localhost:1313/topics/introduction/</link>
+    <description>Recent content in Topics/Introduction on Zachari Saltmer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Nov 2025 15:36:17 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/topics/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World Zachari Here</title>
+      <link>http://localhost:1313/posts/hello-world-zachari-here/</link>
+      <pubDate>Wed, 26 Nov 2025 15:36:17 +1000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world-zachari-here/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur nulla vitae nisi egestas, sit amet posuere ex tristique. Quisque quis vehicula massa. Suspendisse mauris arcu, molestie quis rhoncus elementum, molestie non nisi. Nullam eu feugiat ligula. Donec rutrum magna erat, nec tincidunt erat tincidunt eu. Donec ut accumsan dui. Nam at volutpat orci. Vestibulum arcu urna, tempor id quam vel, venenatis ornare metus. Mauris eleifend sapien sit amet velit efficitur imperdiet.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
