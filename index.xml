@@ -6,8 +6,15 @@
     <description>Recent content on Zachari Saltmer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Nov 2025 15:17:26 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 15:25:14 +1000</lastBuildDate>
     <atom:link href="https://zachari.co/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Search</title>
+      <link>https://zachari.co/search/</link>
+      <pubDate>Wed, 26 Nov 2025 15:25:14 +1000</pubDate>
+      <guid>https://zachari.co/search/</guid>
+      <description>&lt;h1 id=&#34;search&#34;&gt;Search&lt;/h1&gt;&#xA;&lt;p&gt;Here you can search for indexable pages, like posts and alike. There&amp;rsquo;s also support for URL param &amp;ldquo;q&amp;rdquo; which then auto searches upon page load event.&lt;/p&gt;&#xA;&lt;p class=&#34;hidden&#34;&gt;It&amp;#39;s necessary to enable Javascript&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;search-loading hidden&#34;&gt;Loading...&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;form id=&#34;search-form&#34; class=&#34;search-form&#34; action=&#34;#&#34; method=&#34;post&#34; accept-charset=&#34;UTF-8&#34; role=&#34;search&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;search-bar&#34;&gt;&#xD;&#xA;    &lt;label for=&#34;query&#34; class=&#34;hidden&#34;&gt;&lt;/label&gt;&#xD;&#xA;    &lt;input id=&#34;query&#34; class=&#34;search-text&#34; type=&#34;text&#34; placeholder=&#34;Search...&#34;/&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/form&gt;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;search-results&#34;&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;template&gt;&#xD;&#xA;  &lt;article class=&#34;search-result list-view&#34;&gt;&#xD;&#xA;    &lt;header&gt;&#xD;&#xA;      &lt;h2 class=&#34;title&#34;&gt;&lt;a href=&#34;#&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;      &lt;div class=&#34;submitted&#34;&gt;&#xD;&#xA;        &lt;time class=&#34;created-date&#34;&gt;&lt;/time&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;    &lt;/header&gt;&#xD;&#xA;    &lt;p class=&#34;content&#34;&gt;&lt;/p&gt;&#xD;&#xA;  &lt;/article&gt;&#xD;&#xA;&lt;/template&gt;</description>
+    </item>
     <item>
       <title>About</title>
       <link>https://zachari.co/about/</link>
