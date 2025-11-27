@@ -1,31 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Zachari Saltmer</title><link>https://zachari.co/</link><description>Recent content on Zachari Saltmer</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 26 Nov 2025 15:25:14 +1000</lastBuildDate><atom:link href="https://zachari.co/index.xml" rel="self" type="application/rss+xml"/><item><title>Search</title><link>https://zachari.co/search/</link><pubDate>Wed, 26 Nov 2025 15:25:14 +1000</pubDate><guid>https://zachari.co/search/</guid><description>&lt;h1 id="search"&gt;Search&lt;/h1&gt;
-&lt;p&gt;Here you can search for indexable pages, like posts and alike. There&amp;rsquo;s also support for URL param &amp;ldquo;q&amp;rdquo; which then auto searches upon page load event.&lt;/p&gt;
-&lt;p class="hidden"&gt;It&amp;#39;s necessary to enable Javascript&lt;/p&gt;
-&lt;p class="search-loading hidden"&gt;Loading...&lt;/p&gt;
-
-&lt;form id="search-form" class="search-form" action="#" method="post" accept-charset="UTF-8" role="search"&gt;
- &lt;div class="search-bar"&gt;
- &lt;label for="query" class="hidden"&gt;&lt;/label&gt;
- &lt;input id="query" class="search-text" type="text" placeholder="Search..."/&gt;
- &lt;/div&gt;
-&lt;/form&gt;
-
-&lt;div class="search-results"&gt;&lt;/div&gt;
-
-&lt;template&gt;
- &lt;article class="search-result list-view"&gt;
- &lt;header&gt;
- &lt;h2 class="title"&gt;&lt;a href="#"&gt;&lt;/a&gt;&lt;/h2&gt;
- &lt;div class="submitted"&gt;
- &lt;time class="created-date"&gt;&lt;/time&gt;
- &lt;/div&gt;
- &lt;/header&gt;
- &lt;p class="content"&gt;&lt;/p&gt;
- &lt;/article&gt;
-&lt;/template&gt;</description></item><item><title>About</title><link>https://zachari.co/about/</link><pubDate>Wed, 26 Nov 2025 15:17:26 +1000</pubDate><guid>https://zachari.co/about/</guid><description>&lt;h1 id="about-zachari"&gt;About Zachari&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A society grows great when old men plant trees whose shade they know they shall never sit.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;A quote that I&amp;rsquo;ve had stashed away in my journal that has really stuck with me throughout the years.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve had business ideas, I&amp;rsquo;ve committed to them and I have failed a few times but I have also had plenty of success.&lt;/p&gt;
-&lt;p&gt;From experience I know a lot of other founders out there come across their fair-share of struggles or critical turning points. This lead to an idea.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zachari Saltmer</title>
+    <link>https://zachari.co/</link>
+    <description>Recent content on Zachari Saltmer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Nov 2025 15:25:14 +1000</lastBuildDate>
+    <atom:link href="https://zachari.co/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Search</title>
+      <link>https://zachari.co/search/</link>
+      <pubDate>Wed, 26 Nov 2025 15:25:14 +1000</pubDate>
+      <guid>https://zachari.co/search/</guid>
+      <description>&lt;h1 id=&#34;search&#34;&gt;Search&lt;/h1&gt;&#xA;&lt;p&gt;Here you can search for indexable pages, like posts and alike. There&amp;rsquo;s also support for URL param &amp;ldquo;q&amp;rdquo; which then auto searches upon page load event.&lt;/p&gt;&#xA;&lt;p class=&#34;hidden&#34;&gt;It&amp;#39;s necessary to enable Javascript&lt;/p&gt;&#xD;&#xA;&lt;p class=&#34;search-loading hidden&#34;&gt;Loading...&lt;/p&gt;&#xD;&#xA;&#xD;&#xA;&lt;form id=&#34;search-form&#34; class=&#34;search-form&#34; action=&#34;#&#34; method=&#34;post&#34; accept-charset=&#34;UTF-8&#34; role=&#34;search&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;search-bar&#34;&gt;&#xD;&#xA;    &lt;label for=&#34;query&#34; class=&#34;hidden&#34;&gt;&lt;/label&gt;&#xD;&#xA;    &lt;input id=&#34;query&#34; class=&#34;search-text&#34; type=&#34;text&#34; placeholder=&#34;Search...&#34;/&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/form&gt;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;search-results&#34;&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;template&gt;&#xD;&#xA;  &lt;article class=&#34;search-result list-view&#34;&gt;&#xD;&#xA;    &lt;header&gt;&#xD;&#xA;      &lt;h2 class=&#34;title&#34;&gt;&lt;a href=&#34;#&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;      &lt;div class=&#34;submitted&#34;&gt;&#xD;&#xA;        &lt;time class=&#34;created-date&#34;&gt;&lt;/time&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;    &lt;/header&gt;&#xD;&#xA;    &lt;p class=&#34;content&#34;&gt;&lt;/p&gt;&#xD;&#xA;  &lt;/article&gt;&#xD;&#xA;&lt;/template&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://zachari.co/about/</link>
+      <pubDate>Wed, 26 Nov 2025 15:17:26 +1000</pubDate>
+      <guid>https://zachari.co/about/</guid>
+      <description>&lt;h1 id=&#34;about-zachari&#34;&gt;About Zachari&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;A society grows great when old men plant trees whose shade they know they shall never sit.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;A quote that I&amp;rsquo;ve had stashed away in my journal that has really stuck with me throughout the years.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve had business ideas, I&amp;rsquo;ve committed to them and I have failed a few times but I have also had plenty of success.&lt;/p&gt;&#xA;&lt;p&gt;From experience I know a lot of other founders out there come across their fair-share of struggles or critical turning points. This lead to an idea.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
